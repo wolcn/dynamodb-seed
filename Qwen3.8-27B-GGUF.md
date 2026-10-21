@@ -1,3 +1,7 @@
+# Transcript 
+
+*Created with [Unsloth/Qwen3.8-27B-GGUF](https://unsloth.ai/docs/models/qwen3.8) on an Asus Zenbook 14 with an AMD Ryzen AI 7 350 chipset and 32GB RAM using ROCm and llama.cpp*
+
 ## User
 
 Using the programming language Go and the AWS SDK for Go v2
