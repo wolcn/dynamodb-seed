@@ -1,8 +1,8 @@
 ## dynamodb-seed
 
-Simple utility to seed DynamoDB tables
+Simple utility to seed DynamoDB tables with random data
 
-Coded using Qwen3.8-27B-GGUF; chat transcript included in repo
+Created using [Unsloth/Qwen3.8-27B-GGUF](https://unsloth.ai/docs/models/qwen3.8) on an Asus Zenbook 14 with an AMD Ryzen AI 7 350 chipset and 32GB RAM running Ubuntu 26.04.1 with ROCm and llama.cpp
 
 ```
 dynamodb-seed – insert random entries into a DynamoDB table
