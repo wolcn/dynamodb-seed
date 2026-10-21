@@ -48,3 +48,9 @@ Behaviour:
   • Random items are then written using ALL supplied attributes.
 
 ```
+
+Build with the usual:
+```
+go mod tidy
+go build
+```
